@@ -1,0 +1,12 @@
+http://chem2bio2rdf.org/chebi	0
+http://chem2bio2rdf.org/chemogenomics/resource/chemogenomics	1
+http://chem2bio2rdf.org/chemogenomics/resource/expression	2
+http://chem2bio2rdf.org/hgnc/resource/Gene_Family_Name	3
+http://chem2bio2rdf.org/hprd	4
+http://chem2bio2rdf.org/hprd/resource/tissue	5
+http://chem2bio2rdf.org/kegg/resource/protein	6
+http://chem2bio2rdf.org/omim/resource/drug	7
+http://chem2bio2rdf.org/omim/resource/gene	8
+http://chem2bio2rdf.org/sider/resource/cid	9
+http://chem2bio2rdf.org/substructure	10
+http://chem2bio2rdf.org/uniprot/resource/GO_ID	11
